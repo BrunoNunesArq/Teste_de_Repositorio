@@ -10,3 +10,7 @@ Boa noite! Estou fazendo uns testes por aqui. Espero que funcione!
   
   *teste bold* 
   _Teste Itálico_
+
+Teste de imagem:
+
+! (Pasta teste1/teste imagem 1.png)
